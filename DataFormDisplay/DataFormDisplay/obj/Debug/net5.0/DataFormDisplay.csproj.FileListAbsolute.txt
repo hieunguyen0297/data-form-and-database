@@ -115,3 +115,5 @@ C:\Users\HIEU NGUYEN\source\repos\data-form-and-database\DataFormDisplay\DataFor
 C:\Users\HIEU NGUYEN\source\repos\data-form-and-database\DataFormDisplay\DataFormDisplay\obj\Debug\net5.0\DataFormDisplay.pdb
 C:\Users\HIEU NGUYEN\source\repos\data-form-and-database\DataFormDisplay\DataFormDisplay\obj\Debug\net5.0\DataFormDisplay.genruntimeconfig.cache
 C:\Users\HIEU NGUYEN\source\repos\data-form-and-database\DataFormDisplay\DataFormDisplay\obj\Debug\net5.0\Razor\Views\Appointment\Create.cshtml.g.cs
+C:\Users\HIEU NGUYEN\source\repos\data-form-and-database\DataFormDisplay\DataFormDisplay\obj\Debug\net5.0\Razor\Views\Appointment\Details.cshtml.g.cs
+C:\Users\HIEU NGUYEN\source\repos\data-form-and-database\DataFormDisplay\DataFormDisplay\obj\Debug\net5.0\Razor\Views\Appointment\Index.cshtml.g.cs
